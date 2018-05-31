@@ -1,0 +1,117 @@
+.container{
+	width: 1200px;
+    height: 1000px;
+    background-color: blueviolet;
+    margin: 0 auto;
+
+}
+.header{
+	width: 100%;
+    height: 200px;
+    background-color: beige;
+
+}
+.logo{
+	width: 30%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+
+}
+.menu{
+	width: 70%;
+    height: 100%;
+    background-color: blanchedalmond;
+    float: left;
+
+}
+.body{
+	width: 100%;
+    height: 600px;
+    background-color: blue;
+
+}
+.left_part{
+	width: 30%;
+    height: 100%;
+    background-color: #2d1919;
+    float: left;
+
+}
+.right_part{
+	width: 70%;
+    height: 100%;
+    background-color: beige;
+    float: left;
+
+}
+.uper_side{
+	width: 100%;
+    height: 50%;
+    background-color: #11113a;
+
+}
+.content_one{
+	width: 100%;
+    height: 50%;
+    background-color: #2d1e3c;
+
+}
+.content_two{
+	width: 100%;
+    height: 50%;
+    background-color: #1da9a9;
+
+}
+.lower_side{
+	width: 100%;
+    height: 50%;
+    background-color: blue;
+
+}
+.imag_one{
+	width: 50%;
+    height: 100%;
+    background-color: #a24040;
+    float: left;
+
+}
+.image_two{
+	width: 50%;
+    height: 100%;
+    background-color: #d6a86d;
+    float: left;
+
+}
+.bottom_part{
+	width: 100%;
+    height: 200px;
+    background-color: aquamarine;
+
+}
+.links{
+	width: 100%;
+    height: 50%;
+    background-color: beige;
+
+}
+.link_one{
+	width: 50%;
+    height: 100%;
+    background-color: cadetblue;
+    float: left;
+
+}
+.link_two{
+	width: 50%;
+    height: 100%;
+    background-color: #f39628;
+    float: left;
+
+}
+.footer{
+	width: 100%;
+    height: 50%;
+    background-color: #81a75d;
+
+}
